@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "golang.go",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
