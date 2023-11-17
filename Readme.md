@@ -1,4 +1,3 @@
-
 ---
 ![Alt text](public/golang.png)
 # arthicli: Arithmetic CLI Tool
