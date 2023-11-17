@@ -1,7 +1,6 @@
-Certainly! Here's a README template for your project `arthicli`. You can modify and expand upon it as needed to fit the specifics and progress of your project.
 
 ---
-
+![Alt text](public/golang.png)
 # arthicli: Arithmetic CLI Tool
 
 ## Introduction
